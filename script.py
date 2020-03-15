@@ -650,7 +650,7 @@ class boot_up():
     def startup(self):
         print('     1 Information Gathering')
         print('     2 Valnurability Analysis')
-        print('     3 Web Aplication Analysis(Under Dev)')
+        print('     3 Web Aplication Analysis')
         print('     4 Exploitation Tools')
         print('     5 Maintaining Access(Under Dev)')
         print('     6 Post Exploitation(Under Dev)')
